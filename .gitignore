@@ -1,0 +1,11 @@
+# PROJECT
+/**/actual-test.xml
+
+# PYTHON
+/**/__pycache__/
+
+# INTELLIJ 
+/.idea/
+
+# VSCODE
+/.vscode/
