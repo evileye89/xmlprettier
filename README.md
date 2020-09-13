@@ -1,8 +1,8 @@
-h1. GETTING STARTED
+# USER GUIDE
 
-h2. Start from console
+## Start from console
 
-python xml_prettier <FROM_PATH> <EXTENSION>
+  python xml_prettier FROM_PATH EXTENSION
 
-<FROM_PATH> Path to file or directory
-<EXTENSION> XML | WSDL | ...
+* FROM_PATH Path to file or directory
+* EXTENSION XML | WSDL | ...
